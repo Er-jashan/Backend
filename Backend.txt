@@ -1,0 +1,16 @@
+=> A javascript based:-
+Data       file           Third Party(API)
+
+->A js runtime : Node js /Demo/Ban
+Package.json            .env (Readme ,git ,lint ,prittieretc)
+
+-> src:-
+index (DB connects)          APP(entity ,cookie,encode)         constants(ename,DB-name)
+
+=>DB 
+=>Models
+=>Controllers
+=>Routers
+=>Middle WAves
+=>utils
+=>More depends
